@@ -1,2 +1,2 @@
 # E-shop-API
-An complete E-shop Backend
+A complete E-shop Backend
